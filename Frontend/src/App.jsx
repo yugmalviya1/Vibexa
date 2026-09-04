@@ -1,5 +1,6 @@
 import { RouterProvider } from "react-router";
 import { router } from "./app.routes";
+import "./features/shared/styles/global.scss"
 
 
 
