@@ -11,6 +11,7 @@ Instead of manually choosing what to listen to, Vibexa uses facial expression re
 ## ✨ Features
 
 - 🎭 **Facial Expression Detection** — Detects emotions from facial expressions using the camera.
+- 🧠 **MediaPipe** — Used for real-time face detection and facial landmark tracking through the camera.
 - 🎵 **Mood-Based Music Recommendation** — Selects songs based on the detected mood.
 - 🎧 **Music Player** — Play and control recommended songs with artwork and song information.
 - 🔐 **User Authentication** — Registration, login, logout, and authenticated user sessions.
@@ -54,6 +55,7 @@ Vibexa connects facial expressions with music to create a mood-driven listening 
 - Axios
 - SCSS
 - JavaScript
+- Mediapipe
 
 ### Backend
 
